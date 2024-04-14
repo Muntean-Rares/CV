@@ -1,0 +1,45 @@
+body {
+    background-color: #FEFAF6;
+    padding-left: 30px;
+}
+
+hr {
+    border-color: #DAC0A3;
+    border-width: 0.6em;
+    border-style: dotted none none none;
+    width: 8%;
+}
+
+h1 {
+    color: #102C57;
+    font: 3em "Georgia", serif;
+}
+
+h3 {
+    color: #102C57;
+    font: 1.4em "Georgia", serif;
+}
+
+img {
+    height: 220px;
+}
+
+p {
+    color: #102C57;
+    font: 1em "Georgia", serif;
+}
+
+li {
+    color: #102C57;
+    font: 1em "Georgia", serif;
+}
+
+td {
+    color: #102C57;
+    font: 1em "Georgia", serif;
+}
+
+a {
+    color: #102C57;
+    font: 1em "Georgia", serif;
+}
