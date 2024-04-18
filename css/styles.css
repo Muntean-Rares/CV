@@ -1,0 +1,176 @@
+/*********************************************GENERAL EDIT*********************************************/
+
+a {
+    color: #5F463A;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    font-size: 1.3rem;
+}
+
+h1 {
+    line-height: 1.5;
+    color: #B96C4E;
+    font-size: 5rem;
+    margin: 2.6rem auto 0 auto;
+    font-family: 'Handlee', sans-serif;
+}
+
+h2 {
+    font-weight: bolder;
+    color: #B96C4E;
+    font-size:  2.5rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-size:  1.7rem;
+    color: #5F463A;
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    height: 200px;
+}
+
+hr {
+    border-color: #DFC7A8;
+    border-style: dashed none none none;
+    border-width: 0.3em;
+    width: 70%;
+}
+
+/*********************************************CLASS EDIT*********************************************/
+
+
+.bottom-div {
+    padding-top: 2rem;
+    height: 15rem;
+    background-color: #DFC7A8;
+    position: relative;
+
+}
+
+.bottom-beans {
+    position: absolute;
+    left: 400px;
+    height: 11.25rem;
+}
+
+.bottom-paragraph {
+    padding-bottom: 2rem;
+    width: 55%;
+    margin: 0 auto 0 auto;
+}
+
+.bottom-name {
+    color: #5F463A;
+    font-size: 1.3rem;
+    margin: 4.5rem 0 0 0;
+}
+
+.coffee {
+    height: 39.25rem;
+    position: relative;
+    padding-top: 70px;
+    left: 55px;
+}
+
+.footer-link {
+    color: #B96C4E;
+    font-size: 1.5rem;
+    margin: 3rem 2rem 0 2rem;
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+.btn {
+    background: #DFC7A8;
+    background-image: -webkit-linear-gradient(top, #DFC7A8, #B96C4E);
+    background-image: -moz-linear-gradient(top, #DFC7A8, #B96C4E);
+    background-image: -ms-linear-gradient(top, #DFC7A8, #B96C4E);
+    background-image: -o-linear-gradient(top, #DFC7A8, #B96C4E);
+    background-image: linear-gradient(to bottom, #DFC7A8, #B96C4E);
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: "Jost";
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+  background: #E0D3C2;
+  background-image: -webkit-linear-gradient(top, #E0D3C2, #B67D67);
+  background-image: -moz-linear-gradient(top, #E0D3C2, #B67D67);
+  background-image: -ms-linear-gradient(top, #E0D3C2, #B67D67);
+  background-image: -o-linear-gradient(top, #E0D3C2, #B67D67);
+  background-image: linear-gradient(to bottom, #E0D3C2, #B67D67);
+  text-decoration: none;
+}
+
+.logo-python {
+    height: 11.125rem;
+    float: left;
+    margin-right: 2.5rem;
+}
+
+.logo-css {
+    height: 10.125rem;
+    float: left;
+    margin-right: 2.5rem;
+}
+
+.logo-html {
+    height: 10.125rem;
+    float: left;
+
+}
+
+.middle-div {
+    padding-bottom: 4rem;
+}
+
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile {
+    margin: 50px auto 50px auto;
+    width: 55%;
+}
+
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.top-beans {
+    height: 11.25rem;
+    position: absolute;
+    right: 26.25rem;
+    top: 50px;
+}
+
+.top-div {
+    background-color: #DFC7A8;
+    padding-top: 150px;
+    position: relative;
+    }
+
+
+
+
+
+
+
